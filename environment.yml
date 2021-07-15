@@ -1,0 +1,13 @@
+name: dl_test
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - matplotlib
+  - scipy
+  - numpy
+  - pytorch
+  - torchvision
+  - Pillow
+  - h5py
+ 
